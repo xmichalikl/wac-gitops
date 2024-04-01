@@ -12,4 +12,4 @@ resources:
 - ../../../apps/xmichalikl-ambulance-ufe
 
 components:
-- ../../../components/version-developers
+ - ../../../components/version-developers
