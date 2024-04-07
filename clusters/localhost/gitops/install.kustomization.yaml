@@ -7,7 +7,7 @@ spec:
   wait: true
   force: true
   dependsOn:
-  - name: prepare
+  - name: xmichalikl-prepare
   interval: 120s
   path: clusters/localhost/install
   prune: true
