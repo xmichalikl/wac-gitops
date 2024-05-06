@@ -7,7 +7,5 @@ spec:
   interval: 1m0s
   ref:
     branch: main
-  secretRef:
-    name: xmichalikl-repository-pat
   timeout: 1m0s
   url: https://github.com/xmichalikl/wac-gitops
